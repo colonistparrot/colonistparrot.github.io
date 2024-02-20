@@ -1,5 +1,5 @@
 ## This is my website. Don't expect anythin' smart
 
-You can find any kind of stuff here. 
+Burger King best 
 
 [Reviews](https://colonistparrot.github.io/reviews)
